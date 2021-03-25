@@ -1,0 +1,1 @@
+let divide = (p,b) => p / b 

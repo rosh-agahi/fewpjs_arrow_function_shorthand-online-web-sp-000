@@ -1,2 +1,2 @@
 let divide = (p,b) => p / b;
-divide(2000,100);
+return divide(2000,100);
